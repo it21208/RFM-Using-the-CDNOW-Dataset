@@ -1,3 +1,4 @@
+# Author = Alexandros Ioannidis
 ##############  1. GLOBAL CONSTANTS #######################
 #
 # Application and Run Type constants
